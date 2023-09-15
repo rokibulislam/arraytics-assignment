@@ -1,0 +1,38 @@
+.arraytics-form-group {
+    margin-bottom: 30px;
+}
+
+.arraytics-form-control {
+    box-sizing: border-box;
+    background-clip: padding-box;
+    background-image: none;
+    border: 1px solid #dadbdd;
+    border-radius: 7px;
+    color: #606266;
+    display: block;
+    font-family: -apple-system,"system-ui",Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 0;
+    max-width: 100%;
+    padding: 11px 15px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    width: 100%;
+}
+
+.btn-arraytics-submit {
+    padding: 12px 20px;
+    border-radius: 8px;
+    background: #409EFF;
+    color: #fff;
+    display: inline-block;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.item_fields {
+    /* display: flex; */
+}
