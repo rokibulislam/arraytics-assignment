@@ -96,11 +96,3 @@ function displayErrorMessage(selector, message) {
 function clearErrorMessages() {
     jQuery('.error-message').text('');
 }
-
-// document.getElementById("arraytics-submission-form").addEventListener("submit", function(event) {
-//     // Prevent the default form submission behavior
-//     event.preventDefault();
-    
-//     // Your custom JavaScript actions here
-//     alert("Form submitted!");
-//   });
